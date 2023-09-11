@@ -10,8 +10,6 @@
 
 ## Open source project you can contribute to 👇
 
-## Open source project you can contribute to 👇
-
 - [admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard)
 - [Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 - [aleph.js](https://github.com/alephjs/aleph.js)
