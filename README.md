@@ -1,11 +1,11 @@
 
 ## Good First Issues:
--https://goodfirstissue.dev/?ref=hackernoon.com
+- https://goodfirstissue.dev/?ref=hackernoon.com
 ## GSOC Stuffs:
 -	https://summerofcode.withgoogle.com/programs/2023/organizations
--https://www.gsocorganizations.dev/
--https://up-for-grabs.net/#/
--https://ovio.org/projects?skills=Machine+Learning&skills=Dart
+- https://www.gsocorganizations.dev/
+- https://up-for-grabs.net/#/
+- https://ovio.org/projects?skills=Machine+Learning&skills=Dart
 
 
 ## Open source project you can contribute to 👇
