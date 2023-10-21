@@ -2,6 +2,7 @@
 - [GitHub Repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
 ## Good First Issues:
+- [First timers only](https://www.firsttimersonly.com/)
 - [EddieHub Finder](https://finder.eddiehub.io/)
 - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
 - [Good First Issue](https://goodfirstissue.dev/?ref=hackernoon.com)
