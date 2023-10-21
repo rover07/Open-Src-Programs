@@ -3,7 +3,7 @@
 
 ## Good First Issues:
 - [First timers only](https://www.firsttimersonly.com/)
-- [EddieHub Finder](https://finder.eddiehub.io/) 
+- [EddieHub Finder](https://finder.eddiehub.io/)
 - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
 - [Good First Issue](https://goodfirstissue.dev/?ref=hackernoon.com)
 - [First Contributions](https://github.com/firstcontributions/first-contributions)
