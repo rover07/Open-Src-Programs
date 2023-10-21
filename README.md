@@ -227,59 +227,58 @@
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|[timeline](https://www.gssoc.tech/index.html#sch-heading)|
 | [HackSquad](https://www.hacksquad.dev/) | Amazing Swags rewards for Top-60 Teams | [timeline](https://www.hacksquad.dev/#events)   |
 
+| Name                                                                                 | Awards                  				       | Timeline                                                            | Number per team
+|--------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss)              | Prizes For Winners    				       | [timeline](https://lab.codingblocks.com/boss#rules-and-eligibility) |
+| [GCI***](https://codein.withgoogle.com/archive/) | Prizes for winners | [timeline](https://developers.google.com/open-source/gci/timeline) |
+| [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners| NULL |
+| [FOSSASIA Codeheat](https://codeheat.org/)                                           | Cash Prizes For Winners 				       | [timeline](https://codeheat.org/#timeline)                          |
+| [Data Driven Competitions](https://www.drivendata.org/competitions)                  | Cash Prizes For Winners 				       | [timeline](https://www.drivendata.org/competitions/)                |
+| [Hacktoberfest](https://hacktoberfest.digitalocean.com/)                             | Swag Rewards            				       | [timeline](https://hacktoberfest.com/participation/)	     |
+| [DevScript Winter of Code](https://devscript.org/woc/) | Swag rewards for winners | [timeline](https://devscript.org/woc/#schedule)   |
+| [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|[timeline](https://www.gssoc.tech/index.html#sch-heading)|
+| [HackSquad](https://www.hacksquad.dev/) | Amazing Swags rewards for Top-60 Teams | [timeline](https://www.hacksquad.dev/#events)   |
+| [24 Pull Requests](https://24pullrequests.com/)                                      | No Prizes Offered       				       | [timeline](https://24pullrequests.com/about) 		             |
+| [Halite AI Bot Challenge](https://halite.io/)                                        | Swag rewards for winners                                      | N/A                                                                 |
+| [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                    | Prizes For Winners                                            | [timeline](https://www.oss.kr/en_oss_world_challenage#period)       |
+| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
+| [Girlscript Summer of Code](https://gssoc.girlscript.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://gssoc.girlscript.tech/schedule.html)           |
+| [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/)                                      | Prizes, swag rewards, Certificate | [timeline](https://gwoc.girlscript.tech/index.html)           |
+| [Script Winter of Code](https://swoc.scriptindia.org/) SWOC     | Swag Rewards | [Timeline](https://swoc.scriptindia.org/) |
+| [Google Season of Docs](https://developers.google.com/season-of-docs) GSOD                                      | Swag Rewards | [Timeline](https://developers.google.com/season-of-docs/docs/timeline) | 
+
+
 * *Indian Students Only
 * ** OSS World Challenge has temporarily stopped accepting international applications.
 * *** GCI has been discontinued.
 
 # University SoC/WoC
 
+
 | Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
-| [OSS Summer of Innovation](https://oss2019.github.io/SoI.html) | Swag rewards|  |
-| [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards|  |
-| [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org/) | Swag rewards|  |
-| [OpenCode IIITA](https://opencodeiiita.github.io/) | Swag rewards|  |
+| [FOSS Overflow](https://fossoverflow.dev/) | Stipend upto 10k INR  & Swags & Certification (WOC)  | [timeline](https://fossoverflow.dev/)
 | [MDG Winter of Code](http://mdg.iitr.ac.in/woc/2018/11/23/Winter-of-Code-18) | No |
-| [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
 | [DAWOC](https://dawoc.herokuapp.com/) | No  |    |
-| [JGEC Winter of Code](https://jwoc.tech/) | Swag rewards | [timeline](https://jwoc.tech/#timeline)   |
-| [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
-| [Delta Winter of Code (DWoC) ](https://dwoc.io/) | Swag rewards |  |
-| [Sanscript Autumn of Open Source](https://aos.sanscript.tech/) | Winner Certificate + Badge + surprise gifts|  |
-| [JGEC Winter of Code(JWoC)](https://jwoc.tech/) | Swag rewards|  |
-| [Delta Winter of Code(DWoC)](https://dwoc.io/) | Swag rewards|  |
 | [JIIT Month of Code(JMOC)](http://jmoc.jodc.tech/) | Swag rewards|  |
 | [amFOSS Developer Challenge(amDeC)](https://amdec.amfoss.in/) | Swag rewards|  |
+| [JGEC Winter of Code](https://jgec-winter-of-code.github.io/) | Certificates & swag rewards & Cash  | [timeline](https://jwoc2k20.tech/#timeline)
+| [OSS Summer of Innovation](https://oss2019.github.io/SoI.html) | Swag rewards|  |
+| [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards| [timeline](https://njackwinterofcode.github.io/)|
+| [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org/) | Swag rewards|  [timeline](https://kwoc.kossiitkgp.org/#tline)|
+| [OpenCode IIITA](https://opencodeiiita.github.io/) | Swag rewards|  |
+| [FOSSEE Summer Fellowship](https://fossee.in/) | Yes |   |
+| [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards & Goodies offered |  |
+| [Semester Long Projects](https://slop.dscdaiict.in/) (SLoP by DA-IICT) | Prizes, swag rewards and internship opportunities for winners|  |
+| [Sanscript Autumn of Open Source](https://aos.sanscript.tech/) | Winner Certificate + Badge + surprise gifts|  |
+| [Delta Winter of Code](https://dwoc.io/) (DWoC) | Certificates to all and Swag rewards| [timeline](https://dwoc.io/)|
+| [DevScript Winter of Code](https://devscript.tech/woc/) (DWoC) | Certificates, SWAGs, Subscriptions, Internship Opportunity| [timeline](https://devscript.tech/woc/)|
+| [Hack-Club-SRM](https://github.com/Hack-Club-SRM/HCSSoC) (HCSSoC) | Certificates, SWAGs | [timeline](https://github.com/Hack-Club-SRM/HCSSoC#timeline)|
+| [Cross Winter of code](https://crosswoc.ieeedtu.in/) (CrossWoC) | Certificates, SWAGs | [timeline](https://crosswoc.ieeedtu.in/#schedule)|
+| [IIIT-Kalyani Winter of code](https://gdsc-woc.tech/) (WoC 2.0) | Certificates, SWAGs | [timeline](https://gdsc-woc.tech/#timeline)|
 
 
-
-
-
-
-**Hey there, fellow coders! 🚀**
-
-Are you on the lookout for a friendly, active community that's all about **coding , open source , jobs , internships** ? A place where you can find the best resources, get help whenever you need it, and grow along with like-minded coders? Your search ends at 30dayscoding.com.
-
-Here's what you get when you join us:
-
-**24/7 Support**: Our Discord and WhatsApp groups are buzzing with activity, discussions, and help round the clock.
-
-**One-on-One Mentorship**: Need guidance? Get it directly from experienced mentors who have been there, done that.
-
-[Deepanshu Udhwani (SWE MakemyTrip Ex. Alibaba Cloud) ](https://www.linkedin.com/in/deepanshu-udhwani/) ,
- [Aryan Singh(SWE Google)](https://www.linkedin.com/in/singh1aryan/)
-
-**Free Guides & Resources**: No need to hunt for quality study materials. We've got a vast collection that you can access any time to learn at your own pace.
-
-And the best part? All of this is available for just $5. That's less than the price of a medium size pizza! This small fee helps us keep this fantastic platform running smoothly and continue offering high-quality resources and experiences to you.
-
-So, why wait? Dive in and start your coding adventure with us at 👉 https://30dayscoding.com. It's the best place to connect, learn, and code. Let's do this together, shall we? Your coding journey just got exciting!
-
-[![30dayscoding.com](https://i.ibb.co/jGBLFqM/Screenshot-2023-05-10-at-9-08-39-AM.png)](https://30dayscoding.com)
-
-
-## 🚀 Click here 👉 https://30dayscoding.com 🌐 to ignite your journey. This is the perfect playground to ask burning questions, share enlightening experiences, and create a network of inspiring individuals.
-
+## idk arrange this
 
 
 | Name                                    | Stipend | Timeline            | Start Date(s)                         | End Date(s)                     | Restrictions
@@ -328,26 +327,7 @@ So, why wait? Dive in and start your coding adventure with us at 👉 https://30
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
 * ** OSoC is only open to Belgian students.
 
-# Open Source Competitions
-
-
-| Name                                                                                 | Awards                  				       | Timeline                                                            | Number per team
-|--------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss)              | Prizes For Winners    				       | [timeline](https://lab.codingblocks.com/boss#rules-and-eligibility) |
-| [FOSSASIA Codeheat](https://codeheat.org/)                                           | Cash Prizes For Winners 				       | [timeline](https://codeheat.org/#timeline)                          |
-| [Data Driven Competitions](https://www.drivendata.org/competitions)                  | Cash Prizes For Winners 				       | [timeline](https://www.drivendata.org/competitions/)                |
-| [Hacktoberfest](https://hacktoberfest.digitalocean.com/)                             | Swag Rewards            				       | [timeline](https://hacktoberfest.com/participation/)	     |
-| [24 Pull Requests](https://24pullrequests.com/)                                      | No Prizes Offered       				       | [timeline](https://24pullrequests.com/about) 		             |
-| [Halite AI Bot Challenge](https://halite.io/)                                        | Swag rewards for winners                                      | N/A                                                                 |
-| [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                    | Prizes For Winners                                            | [timeline](https://www.oss.kr/en_oss_world_challenage#period)       |
-| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
-| [Girlscript Summer of Code](https://gssoc.girlscript.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://gssoc.girlscript.tech/schedule.html)           |
-| [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/)                                      | Prizes, swag rewards, Certificate | [timeline](https://gwoc.girlscript.tech/index.html)           |
-| [Script Winter of Code](https://swoc.scriptindia.org/) SWOC     | Swag Rewards | [Timeline](https://swoc.scriptindia.org/) |
-| [Google Season of Docs](https://developers.google.com/season-of-docs) GSOD                                      | Swag Rewards | [Timeline](https://developers.google.com/season-of-docs/docs/timeline) | 
-
-* *Indian Students Only
-* ** OSS World Challenge has temporarily stopped accepting international applications.
+hallenge has temporarily stopped accepting international applications.
 
 # University SoC/WoC
 
