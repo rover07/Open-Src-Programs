@@ -195,29 +195,6 @@ hallenge has temporarily stopped accepting international applications.
 -   You can create a new issue and send us the fix through a pull request.  
 -   Please go through our issue list first (open as well as closed) and make sure the issue you are reporting does not replicate an issue already reported. If you have issues on multiple pages, report them separately. Do not combine them into a single issue.  
      
-## 👨‍💻 Author
-
-### 👤 Anubhav Singh
-
-- Twitter: [@anubhavpulkit](https://twitter.com/anubhavpulkit)
-- Github: [@anubhavsingh16](https://github.com/anubhavsingh16)
-- Linkedin: [@anubhav-singh](https://www.linkedin.com/in/anubhav-singh-27512a167/)
-
-## 💪 Thanks to the all Contributors
-
-Thanks a lot for spending your time in helping open source Events grow and help many developers. Thanks a lot! Keep rocking 🍻 <br> Also, check them on [opensourcefrontend/contributors](https://opensourcefrontend.netlify.app/contri.html)
-
- <a href = "https://github.com/anubhavpulkit/Open-Source-Events/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=anubhavpulkit/Open-Source-Events"/>
- </a>
-
-## 🙏 Support
- 
-<h3 align="center">
-Open source Events needs a ⭐️ from you
-</h3>
-
-
 
 
 There are many other great open-source projects to contribute to.\
