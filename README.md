@@ -1,8 +1,16 @@
+## How to contribute to OSrc?
+- https://github.com/freeCodeCamp/how-to-contribute-to-open-source
 
 ## Good First Issues:
+- https://finder.eddiehub.io/
+- https://github.com/MunGell/awesome-for-beginners
 - https://goodfirstissue.dev/?ref=hackernoon.com
+- https://github.com/firstcontributions/first-contributions
+## Open Source Practice
+- https://github.com/EddieHubCommunity/open-source-practice
+
 ## GSOC Stuffs:
--	https://summerofcode.withgoogle.com/programs/2023/organizations
+- https://summerofcode.withgoogle.com/programs/2023/organizations
 - https://www.gsocorganizations.dev/
 - https://up-for-grabs.net/#/
 - https://ovio.org/projects?skills=Machine+Learning&skills=Dart
