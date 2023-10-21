@@ -1,19 +1,20 @@
 ## How to contribute to OSrc?
-- https://github.com/freeCodeCamp/how-to-contribute-to-open-source
+- [GitHub Repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
 ## Good First Issues:
-- https://finder.eddiehub.io/
-- https://github.com/MunGell/awesome-for-beginners
-- https://goodfirstissue.dev/?ref=hackernoon.com
-- https://github.com/firstcontributions/first-contributions
+- [EddieHub Finder](https://finder.eddiehub.io/)
+- [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
+- [Good First Issue](https://goodfirstissue.dev/?ref=hackernoon.com)
+- [First Contributions](https://github.com/firstcontributions/first-contributions)
+
 ## Open Source Practice
-- https://github.com/EddieHubCommunity/open-source-practice
+- [GitHub Repository](https://github.com/EddieHubCommunity/open-source-practice)
 
 ## GSOC Stuffs:
-- https://summerofcode.withgoogle.com/programs/2023/organizations
-- https://www.gsocorganizations.dev/
-- https://up-for-grabs.net/#/
-- https://ovio.org/projects?skills=Machine+Learning&skills=Dart
+- [Google Summer of Code Organizations](https://summerofcode.withgoogle.com/programs/2023/organizations)
+- [GSOC Organizations Directory](https://www.gsocorganizations.dev/)
+- [Up for Grabs](https://up-for-grabs.net/#/)
+- [OVIO Projects (Machine Learning and Dart)](https://ovio.org/projects?skills=Machine+Learning&skills=Dart)
 
 
 ## Open source project you can contribute to 👇
@@ -123,30 +124,31 @@
 - [Versatile Data Kit](https://github.com/vmware/versatile-data-kit)
 - [vitrivr](https://github.com/vitrivr/)
 - [webpack](https://github.com/webpack/webpack)
-- https://numfocus.org/
-- https://www.producthunt.com/topics/open-source
-- https://openwisp.io/docs/developer/contributing.html
-- https://wiki.mozilla.org/MOSS/Secure_Open_Source
-- https://docs.ferretdb.io/contributing/
-- https://aframe.io/docs/1.4.0/introduction/
-- https://kubernetes.io/docs/contribute/
-- https://www.videolan.org/contribute.html
-- https://kafka.apache.org/contributing
-- https://opensource.twitter.dev/
-- https://opensource.fb.com/
-- https://vercel.com/oss
-- https://www.drupal.org/project/contribute
-- https://webrtc.org/support/contributing
-- https://github.com/facebook/docusaurus also https://docusaurus.io/
-- https://github.com/tailwarden/komiser
-- https://github.com/nhost/nhost
-- https://github.com/forem/forem
-- https://github.com/Jeysiva-apjs/LearnAcademy-OpenSource
-- https://github.com/SauravMukherjee44/CodeIN-Community-Website
-- https://github.com/twitter/the-algorithm
-- https://github.com/EddieHubCommunity/BioDrop
-- https://github.com/riccardoperra/codeimage
-- https://github.com/Club-TechBrewers/Club-TechBrewers.github.io
+- [NumFOCUS](https://numfocus.org/)
+- [Product Hunt - Open Source](https://www.producthunt.com/topics/open-source)
+- [OpenWISP Developer's Guide](https://openwisp.io/docs/developer/contributing.html)
+- [Mozilla MOSS Secure Open Source](https://wiki.mozilla.org/MOSS/Secure_Open_Source)
+- [FerretDB Contributing Guide](https://docs.ferretdb.io/contributing/)
+- [A-Frame Documentation](https://aframe.io/docs/1.4.0/introduction/)
+- [Kubernetes Contribution Guide](https://kubernetes.io/docs/contribute/)
+- [VideoLAN Contribution Guide](https://www.videolan.org/contribute.html)
+- [Apache Kafka Contributing](https://kafka.apache.org/contributing)
+- [Twitter Open Source](https://opensource.twitter.dev/)
+- [Facebook Open Source](https://opensource.fb.com/)
+- [Vercel Open Source](https://vercel.com/oss)
+- [Drupal Contribution](https://www.drupal.org/project/contribute)
+- [WebRTC Contribution Guide](https://webrtc.org/support/contributing)
+- [Docusaurus GitHub Repository](https://github.com/facebook/docusaurus) and [Docusaurus Website](https://docusaurus.io/)
+- [Komiser GitHub Repository](https://github.com/tailwarden/komiser)
+- [Nhost GitHub Repository](https://github.com/nhost/nhost)
+- [Forem GitHub Repository](https://github.com/forem/forem)
+- [LearnAcademy Open Source GitHub Repository](https://github.com/Jeysiva-apjs/LearnAcademy-OpenSource)
+- [CodeIN Community Website GitHub Repository](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
+- [The Algorithm GitHub Repository](https://github.com/twitter/the-algorithm)
+- [BioDrop GitHub Repository](https://github.com/EddieHubCommunity/BioDrop)
+- [CodeImage GitHub Repository](https://github.com/riccardoperra/codeimage)
+- [Club TechBrewers GitHub Repository](https://github.com/Club-TechBrewers/Club-TechBrewers.github.io)
+
  
 
 
