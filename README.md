@@ -2,6 +2,7 @@
 - [GitHub Repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
 ## Good First Issues:
+- [firstcontributions](https://firstcontributions.github.io/)
 - [First timers only](https://www.firsttimersonly.com/)
 - [EddieHub Finder](https://finder.eddiehub.io/)
 - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
@@ -11,9 +12,13 @@
 ## Open Source Practice
 - [GitHub Repository](https://github.com/EddieHubCommunity/open-source-practice)
 
+## Analyze repo
+- [AnalyzeMyRepo](https://analyzemyrepo.com/)
+
 ## Month Wise Timeline
 
 - [opensourcefrontend](https://opensourcefrontend.netlify.app/)
+
 
 ## GSOC Stuffs:
 - [Google Summer of Code Organizations](https://summerofcode.withgoogle.com/programs/2023/organizations)
