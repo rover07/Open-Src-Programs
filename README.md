@@ -202,9 +202,9 @@ Head to the [GitHub Explore](https://github.com/explore) page and search other g
 
 
 
-## Open source project you can contribute to 👇
+## [Open source project you can contribute to](dasd) 
 
-- [admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard)
+
 
 
 
