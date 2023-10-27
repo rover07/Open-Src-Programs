@@ -1,3 +1,6 @@
+## Open source project you can contribute to
+- [👉Click here👈](https://github.com/rover07/Open-Src-Programs/blob/main/Orgs-for-Contribution/Orgs) 
+
 ## How to contribute to OSrc?
 - [GitHub Repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
@@ -18,10 +21,6 @@
 ## Month Wise Timeline
 
 - [opensourcefrontend](https://opensourcefrontend.netlify.app/)
-
-
-
-## [Open source project you can contribute to](https://github.com/rover07/Open-Src-Programs/blob/main/Orgs-for-Contribution/Orgs) 
 
 
 ## GSOC Stuffs:
