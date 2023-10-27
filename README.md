@@ -74,8 +74,6 @@
 | [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/) | Yes |  |
 | [MLH Fellowship](https://fellowship.mlh.io/)| Yes |[timeline](https://fellowship.mlh.io/programs/prep)  |
 
-* *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
-* ** OSoC is only open to Belgian students.
 
 # Open Source Competitions
 
@@ -99,10 +97,6 @@
 | [Script Winter of Code](https://swoc.scriptindia.org/) SWOC     | Swag Rewards | [Timeline](https://swoc.scriptindia.org/) |
 | [Google Season of Docs](https://developers.google.com/season-of-docs) GSOD                                      | Swag Rewards | [Timeline](https://developers.google.com/season-of-docs/docs/timeline) | 
 
-
-* *Indian Students Only
-* ** OSS World Challenge has temporarily stopped accepting international applications.
-* *** GCI has been discontinued.
 
 # University SoC/WoC
 
@@ -177,19 +171,15 @@
 | [Nasqueron DevOps & Dev Open Source Program](http://join.nasqueron.org/) | No | | Whole Year | | N/A
 | [Social Summer Of Code (SSOC)](https://hack2skill.com/hack/ssoc) | No | [timeline](https://hack2skill.com/hack/ssoc)| Sat Apr 01 2023 | Mon Jul 31 2023 |N/A
 
-* *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
-* ** OSoC is only open to Belgian students.
-
-hallenge has temporarily stopped accepting international applications.
 
 
 ## 🤝 How to Contribute  
   
 ### For sending a PR:-  
-- Please use any ReadMe editor, my favourite editor is [Stackedit.io](https://stackedit.io/app#).  
-- Follow the pattern of this doc to add new events in the list.  
+- Please use any ReadMe editor, my favorite editor is [Stackedit.io](https://stackedit.io/app#).  
+- Follow the pattern of this doc to add new events to the list.  
 - Don't forget to add the link to the event. **(IMPORTANT)**  
--   Pick an open issue from the  [issue list](https://github.com/anubhavsingh16/Open-Source-Events/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).  
+-   Pick an open issue from the  [issue list](https://github.com/rover07/Open-Src-Programs/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).  
 -   All the PR’s need to be sent to the appropriate branch (usually "master").  
   
 ### To Open an issue:-  
@@ -199,7 +189,7 @@ hallenge has temporarily stopped accepting international applications.
 
 
 There are many other great open-source projects to contribute to.\
-Head to the [GitHub Explore](https://github.com/explore) page and search other great projects as well.
+Head to the [GitHub Explore](https://github.com/explore) page and search for other great projects as well.
 
 
 
