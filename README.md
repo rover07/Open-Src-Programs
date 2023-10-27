@@ -1,4 +1,4 @@
-## Open source project you can contribute to
+## Open source projects you can contribute to
 - [👉Click here👈](https://github.com/rover07/Open-Src-Programs/blob/main/Orgs-for-Contribution/Orgs) 
 
 ## How to contribute to OSrc?
