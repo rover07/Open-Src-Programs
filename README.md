@@ -1,10 +1,10 @@
-## Open source projects you can contribute to
-- [👉Click here👈](https://github.com/rover07/Open-Src-Programs/blob/main/Orgs-for-Contribution/Orgs) 
+## Open source projects you can contribute to🍉
+- [Click here](https://github.com/rover07/Open-Src-Programs/blob/main/Orgs-for-Contribution/Orgs) 
 
-## How to contribute to OSrc? 
+## How to contribute to OSrc?🤔
 - [GitHub Repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
-## Open Source Ettiquetes
+## Open Source Ettiquetes🍽
 - [Click Here](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette)
 
 ## Good First Issues:
