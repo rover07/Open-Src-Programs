@@ -4,7 +4,7 @@
 ## How to contribute to OSrc?🤔
 - [GitHub Repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
-## Open Source Ettiquetes🍽
+## Open Source Ettiquetes🍽 
 - [Click Here](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette)
 
 ## Good First Issues:
