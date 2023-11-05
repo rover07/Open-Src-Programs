@@ -2,35 +2,34 @@
 >- [Click here](https://github.com/rover07/Open-Src-Programs/blob/main/Orgs-for-Contribution/Orgs) 
 
 ## How to contribute to OSrc?🤔
-- [GitHub Repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+>- [GitHub Repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
 ## Open Source Ettiquetes🍽 
 - [Click Here](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette)
 
 ## Good First Issues:
-- [firstcontributions](https://firstcontributions.github.io/)
-- [First timers only](https://www.firsttimersonly.com/)
-- [EddieHub Finder](https://finder.eddiehub.io/)
-- [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
-- [Good First Issue](https://goodfirstissue.dev/?ref=hackernoon.com)
-- [First Contributions](https://github.com/firstcontributions/first-contributions)
+>- [firstcontributions](https://firstcontributions.github.io/)
+>- [First timers only](https://www.firsttimersonly.com/)
+>- [EddieHub Finder](https://finder.eddiehub.io/)
+>- [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
+>- [Good First Issue](https://goodfirstissue.dev/?ref=hackernoon.com)
+>- [First Contributions](https://github.com/firstcontributions/first-contributions)
 
 ## Open Source Practice
-- [GitHub Repository](https://github.com/EddieHubCommunity/open-source-practice)
+>- [GitHub Repository](https://github.com/EddieHubCommunity/open-source-practice)
 
 ## Analyze repo
-- [AnalyzeMyRepo](https://analyzemyrepo.com/)
+>- [AnalyzeMyRepo](https://analyzemyrepo.com/)
 
 ## Month Wise Timeline
-
-- [opensourcefrontend](https://opensourcefrontend.netlify.app/)
+>- [opensourcefrontend](https://opensourcefrontend.netlify.app/)
 
 
 ## GSOC Stuffs:
-- [Google Summer of Code Organizations](https://summerofcode.withgoogle.com/programs/2023/organizations)
-- [GSOC Organizations Directory](https://www.gsocorganizations.dev/)
-- [Up for Grabs](https://up-for-grabs.net/#/)
-- [OVIO Projects (Machine Learning and Dart)](https://ovio.org/projects?skills=Machine+Learning&skills=Dart)
+>- [Google Summer of Code Organizations](https://summerofcode.withgoogle.com/programs/2023/organizations)
+>- [GSOC Organizations Directory](https://www.gsocorganizations.dev/)
+>- [Up for Grabs](https://up-for-grabs.net/#/)
+>- [OVIO Projects (Machine Learning and Dart)](https://ovio.org/projects?skills=Machine+Learning&skills=Dart)
 
 
 
