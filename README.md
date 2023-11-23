@@ -172,6 +172,9 @@
 | [Devtron](https://devtron.ai/careers.html) | Yes |  | | | N/A
 | [Nasqueron DevOps & Dev Open Source Program](http://join.nasqueron.org/) | No | | Whole Year | | N/A
 | [Social Summer Of Code (SSOC)](https://hack2skill.com/hack/ssoc) | No | [timeline](https://hack2skill.com/hack/ssoc)| Sat Apr 01 2023 | Mon Jul 31 2023 |N/A
+| [CERN Openlab]([https://hack2skill.com/hack/ssoc](https://openlab.cern/education/cern-openlab-summer-student-programme
+)) | No | [timeline](https://hack2skill.com/hack/ssoc)| idk | idk | idk
+
 
 
 
