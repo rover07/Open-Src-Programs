@@ -67,6 +67,7 @@
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/projects/internship-program) | Yes |  |
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  |
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    |
+| [Hacktoberfest](https://hacktoberfest.com/) | [Timeline](https://hacktoberfest.com/participation/) | Swag rewards for contributors |
 | [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://2019.summerofcode.be/practical.html)|
 | [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     |
 | [Hyperledger Internship Program](https://wiki.hyperledger.org/display/INTERN) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/#HyperledgerMentorshipProgram-2019ProgramTimeline) |
