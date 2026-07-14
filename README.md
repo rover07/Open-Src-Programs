@@ -6,9 +6,8 @@
 >- [GitHub Repository](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
 ---
-## Open Source Ettiquetes🍽 
-- [Click Here](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette)
-
+## Open Source Etiquettes🍽 
+- [Open Source Etiquette Guide (MDN)](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette)
 ---
 ## Good First Issues:
 >- [firstcontributions](https://firstcontributions.github.io/)
